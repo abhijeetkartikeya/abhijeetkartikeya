@@ -63,9 +63,7 @@ me.say_hi()
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -75,8 +73,7 @@ me.say_hi()
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -89,10 +86,8 @@ me.say_hi()
 ### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chroma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -101,30 +96,71 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/abhijeetkartikeya/solar_forecasting_final">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=solar_forecasting_final&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>&nbsp;
-<a href="https://github.com/abhijeetkartikeya/Weather_predication">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=Weather_predication&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-<a href="https://github.com/abhijeetkartikeya/medivault">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=medivault&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>&nbsp;
-<a href="https://github.com/abhijeetkartikeya/Neural-Network-Visualization">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=Neural-Network-Visualization&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-<a href="https://github.com/abhijeetkartikeya/ML-Model-Training-Dashboard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=ML-Model-Training-Dashboard&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>&nbsp;
-<a href="https://github.com/abhijeetkartikeya/expense-tracker-python">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetkartikeya&repo=expense-tracker-python&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-</div>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/solar_forecasting_final">Solar Forecasting Platform</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+<p>Full-stack solar energy monitoring for Tata Power assets across India. Interactive Leaflet map, 3-day ML power forecasts, and real-time Grafana dashboards.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/Weather_predication">Weather Prediction System</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+</p>
+<p>Production ML pipeline with XGBoost models for 5 weather variables at 15-min granularity. 288-step forecasts across 10+ Indian locations.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/medivault">MediVault</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+<p>AI-powered medical report manager. OCR extraction, LLM summaries via Ollama/Mistral, semantic search with ChromaDB, and family-based organization.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/Neural-Network-Visualization">Neural Network Visualization</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+<p>Interactive deep learning demo: digit recognition (CNN, 98%+ acc), image classification (MobileNetV2), sentiment analysis (LSTM), and predictive analytics.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/ML-Model-Training-Dashboard">ML Training Dashboard</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
+<p>Streamlit dashboard for telecom customer churn prediction. Logistic Regression (~78%) and Random Forest (~82%) with interactive visualizations.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/abhijeetkartikeya/expense-tracker-python">Expense Tracker</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+</p>
+<p>CLI expense management tool with smart categorization, monthly budget analysis, and pie chart visualizations using Pandas and Matplotlib.</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
