@@ -223,29 +223,23 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijeetkartikeya&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhijeetkartikeya&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com?user=abhijeetkartikeya&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetkartikeya&theme=github_dark" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkartikeya&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=shaderlab,hlsl&langs_count=8" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeetkartikeya&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijeetkartikeya&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijeetkartikeya&theme=github_dark" />
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> GitHub Trophies
+## <img width="25" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijeetkartikeya&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-## <img width="25" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> Activity Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetkartikeya&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeetkartikeya&theme=github_dark&utcOffset=5.5" />
 </div>
 
 <br/>
