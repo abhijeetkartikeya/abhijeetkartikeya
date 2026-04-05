@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Abhijeet%20Kartikeya&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Building+intelligent+systems+that+solve+real+problems;From+raw+data+to+deployed+ML+pipelines;Full-stack+%2B+Machine+Learning+%3D+Impact)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Building+intelligent+systems+that+solve+real+problems;From+raw+data+to+deployed+ML+pipelines;Full-stack+%2B+Machine+Learning+%3D+Impact" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="mailto:abhijeetkartikeya03@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://abhijeetkartikeya.github.io">
+<a href="https://abhijeetkartikeya.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/abhijeetkartikeya">
@@ -258,7 +258,7 @@ me.say_hi()
 <a href="mailto:abhijeetkartikeya03@gmail.com">
   <img src="https://img.shields.io/badge/-Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://abhijeetkartikeya.github.io">
+<a href="https://abhijeetkartikeya.github.io/portfolio/">
   <img src="https://img.shields.io/badge/-View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
